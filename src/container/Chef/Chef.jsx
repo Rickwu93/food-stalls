@@ -19,7 +19,7 @@ const Chef = () => (
             <img src={images.quote} alt="quote" />
             <p className="p__opensans">Finn "⁠karrigan⁠" Andersen executed some great calls and found frags in crucial moments to keep his team in the game.</p>
           </div>
-          <p className="p__opensans">FAZE ELIMINATE NAVI AND CLINCH PARIS MAJOR PLAYOFFS SPOT</p>
+          <p className="p__opensans">FAZE ELIMINATE NAVI AND CLINCH PARIS MAJOR PLAYOFFS SPOT. "We started to choke, we started to be nervous," said coach Andrey "⁠B1ad3⁠" Gorodenskiy in the post-match interview.</p>
         </div>
 
         <div className="app__chef-sign">
